@@ -1,0 +1,9 @@
+This file contains all the libraries required to run your project.
+
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+faiss-cpu
+pypdf
